@@ -1,0 +1,25 @@
+Install tailwind css :
+1. instal npm di browser
+2. buka cmd default atau terminal di vs code
+3. npm init -y
+4. seterusnya ikutin cara install tailwind css di web tailwind bagian install by cli
+5. catatan. setiap mau menjalankan tailwind cukup ketik perintah "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch" ini.
+tergantung nama file dan foldernya
+
+6. remove.bg untuk menghapus background
+6. blobmaker(searching in the browser) untuk membuat gambar svg yang gak beraturan
+7. simple icon .org untuk mencari icon gratis
+8. unsplash.com untuk mencari gambar
+9. fonts.google.com untuk mencari font
+10. logo google transparent svg (mencari logo) google, gojek, tokopedia, traveloka, di common.wikimedia.org 43.36
+11. software gith di komputer dan akun github
+12. npm i -D prettier prettier-plugin-tailwindcss (untuk membuat kode menjadi lebih rapi)
+13. jika sedang membuat project besar, setelah selesai resize ukuran file css nya menjadi lebih kecil lagi menggunakan perintah "npx tailwindcss -i ./src/input.css -o ./dist/css/final.css --minify". ada di dokumentasi tailwind css
+14. buat file ".gitignore" yang berisi nama folder/ yang gak mau di upload ke git nya.
+
+perintah diterminal untuk upload di gith
+1. git init
+2. buat file .gitignore/ yang isinya nama folder yang tidak mau di upload ke gith nya
+3. git add .
+4. git commit -m 'portfolio tailwind css'
+5. 
